@@ -64,5 +64,3 @@ https://github.com/akashignatious/Smart-SDLC-project
 
 
 
-git clone
-
