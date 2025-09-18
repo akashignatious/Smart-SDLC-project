@@ -54,19 +54,15 @@ Phase-3: UI + Integration
 Health AI Output
 
 Demo Video
-
-
-Watch our project demo here: Click to Watch
-
-https://drive.google.com/file/d/1z0189GC_P1fXI2gZiG4edYzUVAHRx2Gm/view?usp=sharing
-
-
-⚡ How to Run
-
-
-Clone the repository:
-git clone https://github.com/akashignatious/Smart-SDLC-project
+Watch our project demo here:
+Click to Watch https://drive.google.com/file/d/1z0189GC_P1fXI2gZiG4edYzUVAHRx2Gm/view?usp=sharing
 
 ⚡ How to Run
 Clone the repository:
-git clone https://github.com/venkattweb/SmartSDLC-IBM-Project.git
+git clone  
+https://github.com/akashignatious/Smart-SDLC-project
+
+
+
+git clone
+
